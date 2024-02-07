@@ -1,6 +1,3 @@
-# Password-Generator
-A Python script that creates passwords stronger than a me!
-
 # Random Password Generator
 
 Create unique and robust passwords with this Python script! Add a touch of excitement to your security routine.
@@ -30,7 +27,6 @@ Enter the desired length for the password: 8
 Generated Password: Yp@2rBz6
 Password Strength: Medium
 Do you want to generate another password? (yes/no): no
-
 
 
 ## Contribution
