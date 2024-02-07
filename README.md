@@ -1,6 +1,36 @@
 # Password-Generator
 A Python script that creates passwords stronger than a me!
 
+# Random Password Generator
+
+Create unique and robust passwords with this Python script! Add a touch of excitement to your security routine.
+
+## Features
+
+- **Password Generation:** Generate random passwords with a mix of letters, digits, and punctuation.
+- **Strength Indicator:** Evaluate password strength based on length and complexity.
+- **User Interaction:** Interactive prompts for a personalized password experience.
+
+## Usage
+
+1. Make sure you have Python installed on your computer.
+2. Clone this repository or download the script.
+3. Open a terminal or command prompt and navigate to the script's directory.
+4. Run the script with `python password_generator.py`.
+5. Enter the desired password length and enjoy your secure, randomly generated password.
+
+## Example Output
+
+```plaintext
+Enter the desired length for the password: 12
+Generated Password: aB!9k#3GqLzX
+Password Strength: Strong
+Do you want to generate another password? (yes/no): yes
+Enter the desired length for the password: 8
+Generated Password: Yp@2rBz6
+Password Strength: Medium
+Do you want to generate another password? (yes/no): no
+
 
 
 ## Contribution
