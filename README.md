@@ -28,7 +28,7 @@ Enter the desired length for the password: 8
 Generated Password: Yp@2rBz6
 Password Strength: Medium
 Do you want to generate another password? (yes/no): no
-'''
+```
 
 
 ## Contribution
