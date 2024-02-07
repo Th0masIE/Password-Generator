@@ -19,7 +19,6 @@ Create unique and robust passwords with this Python script! Add a touch of excit
 ## Example Output
 
 ```
-
 Enter the desired length for the password: 12
 Generated Password: aB!9k#3GqLzX
 Password Strength: Strong
