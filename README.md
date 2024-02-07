@@ -32,7 +32,7 @@ Do you want to generate another password? (yes/no): no
 
 
 ## Contribution
-Want to make my Grade Calculator even better? Your contributions are highly valued! If you have any ideas, improvements, or bug fixes for "GradeCalculator," feel free to open an issue or submit a pull request. Let's collaborate and enhance the GradeCalculator experience for students everywhere! 🌟
+Contributions are welcome! If you have ideas, improvements, or bug fixes for the Random Password Generator, open an issue or submit a pull request. Let's make password generation fun and secure together! 🚀
 
 ## Contact
 Got questions, suggestions, or just want to chat about "Password-Generator"? I would love to hear from you! Feel free to reach out through any of the channels below:
